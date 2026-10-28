@@ -46,9 +46,9 @@
     },
     "dependencies": {
         "@swc/counter": "workspace:^",
-        "@xhmikosr/bin-wrapper": "^14.5.1",
+        "@xhmikosr/bin-wrapper": "^14.5.2",
         "commander": "^15.0.0",
-        "minimatch": "^10.2.6",
+        "minimatch": "^11.0.2",
         "piscina": "^5.3.2",
         "semver": "^7.8.5",
         "slash": "5.1.0",
@@ -56,22 +56,22 @@
         "tinyglobby": "^0.2.17"
     },
     "devDependencies": {
-        "@swc/cli": "0.8.1",
-        "@swc/core": "^1.16.1",
+        "@swc/cli": "0.8.2",
+        "@swc/core": "^1.16.20",
         "@swc/jest": "workspace:^",
         "@swc/types": "^0.1.28",
         "@types/jest": "^30.0.0",
-        "@types/node": "^26.4.1",
+        "@types/node": "^26.6.5",
         "@types/semver": "^7.8.0",
-        "chokidar": "^5.0.0",
+        "chokidar": "^6.0.0",
         "deepmerge": "^4.3.1",
-        "jest": "^30.5.1",
-        "ts-jest": "^29.4.12",
+        "jest": "^30.5.2",
+        "ts-jest": "^29.4.15",
         "typescript": "~7.0.2"
     },
     "peerDependencies": {
-        "@swc/core": "^1.16.1",
-        "chokidar": "^5.0.0"
+        "@swc/core": "^1.16.20",
+        "chokidar": "^6.0.0"
     },
     "peerDependenciesMeta": {
         "chokidar": {
